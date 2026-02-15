@@ -443,6 +443,7 @@
 .button-signal {
 	--button-text:#ffffff;
 	--button-background:#3B45FD;
+	--button-border:1px solid #ffffff;
 }
 
 /* Signal Alt */
